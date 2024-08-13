@@ -1,9 +1,3 @@
-## Amazon Clone
-
-Here's a sample README file for your Amazon clone project using HTML and CSS:
-
----
-
 # Amazon Clone
 
 This project is a clone of the Amazon website created using only HTML and CSS. The goal of this project is to practice and demonstrate front-end web development skills, particularly in structuring a webpage with HTML and styling it with CSS.
