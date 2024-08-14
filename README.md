@@ -33,7 +33,7 @@ To view this project, you only need a web browser.
     ```
 2. Navigate to the project directory:
     ```bash
-    cd amazon-clone
+    cd Amazon-Clone
     ```
 3. Open `index.html` in your web browser to view the project.
 
