@@ -14,7 +14,7 @@ This project is a clone of the Amazon website created using only HTML and CSS. T
 
 ![Screenshot of the Home Page](images/homepage-screenshot.PNG)
 
-![Screenshot of the Footer](link-to-screenshot2)
+
 
 ## Getting Started
 
